@@ -1303,7 +1303,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,278,22);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Layer_2
-	this.text = new cjs.Text("Menu", "15px 'Trajan Pro'", "#535353");
+	this.text = new cjs.Text(" ", "15px 'Trajan Pro'", "#535353");
 	this.text.textAlign = "center";
 	this.text.lineHeight = 17;
 	this.text.lineWidth = 100;
